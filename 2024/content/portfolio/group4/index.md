@@ -40,7 +40,7 @@ Roteiro para testes / guion para pruebas: [Link](https://docs.google.com/forms/d
 
 ##### Tecnologias / Tecnologías
 
-- Front-end: NextJS, Typescript, MUIComponents.
+- Front-end: NextJS, Expo, Typescript, MUIComponents.
 - Back-end: Não foi utilizado. Integração feita diretamente do FrontEnd.
 - AIs: OCR, GoogleGenerative (Gemini), GoogleTranslate.
 - Deploy: Vercel.
